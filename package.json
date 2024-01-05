@@ -83,7 +83,7 @@
         "glob": "^10.3.10",
         "grid.gl": "^0.0.1",
         "html-webpack-plugin": "^5.5.3",
-        "hue.gl": "^0.0.7",
+        "hue.gl": "^0.0.8",
         "icon.gl": "^0.0.4",
         "lodash": "^4.17.21",
         "loop.gl": "^0.0.1",
